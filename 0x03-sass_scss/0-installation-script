@@ -1,0 +1,7 @@
+1. Installed Node.js (already available in my system)
+2. Opened terminal and navigated to the project folder:
+   cd alx-intermediate-frontend/0x03-sass_scss
+3. Installed SASS using npm:
+   npm install sass
+4. Verified installation:
+   npx sass --version
